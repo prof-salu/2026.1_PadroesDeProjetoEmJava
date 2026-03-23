@@ -18,3 +18,5 @@ A Guerra dos Descontos (Strategy): Extrair a matemática pesada do CarrinhoDeCom
 
 Atenção: A branch solucao contém o gabarito. Tente implementar por conta própria primeiro!
 
+
+
